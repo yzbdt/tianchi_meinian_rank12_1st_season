@@ -8,8 +8,10 @@
 特征工程等其他详细信息决赛之后再补充吧。
 
 data里的zip文件要手动解压，虽然有a、b榜的vid名单，但官方没有公布答案，只能获得线下分数，若要比较结果，建议从训练集里再划分出训练集、验证集和测试集。
+由于我还不太懂git bash的用法，有一个原始数据超过25m没法上传，先发百度云的链接，学会了git bash后再传进data文件夹里。
+链接：https://pan.baidu.com/s/1pwp90ubent3_4_e9SgQSyA 密码：rb61
 
-硬件及环境
+硬件及环境：
 操作系统 Windows10 |Python 3.6.1 |Anaconda 4.4.0 (64-bit)|
 
 使用的package
