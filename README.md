@@ -95,3 +95,5 @@ lightgbm __version__ = '2.1.0'
 内存16G应该足够了，预处理大概要3小时和训练需要2小时左右（CPU：ryzen-1700 OC 3.40hz）
 
 我在pycharm上把project建在主目录下，直接运行main.py即可，也可以在命令行下运行main.py
+
+_
